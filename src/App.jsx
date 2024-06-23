@@ -9,7 +9,7 @@ import TestimoniComponent from "./components/testimoni/Testimoni";
 function App() {
   return (
     <>
-      <div className="space-y-[100px] max-sm:space-y-[50px] max-w-[1990px] mx-auto bg-white dark:text-[#A1A1A1] dark:bg-[#003D23] overflow-x-auto ">
+      <div className="space-y-[100px] max-sm:space-y-[50px] overflow-hidden max-w-[1990px] mx-auto bg-white dark:text-[#A1A1A1] dark:bg-[#003D23] ">
         <HeaderComponent />
         <HeroComponent />
         <FavoriteMenuComponent />
