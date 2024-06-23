@@ -12,7 +12,7 @@ const FavoriteMenu = () => {
             <h2 className="text-[54px] text-[#2A3833] max-sm:text-[44px] dark:text-[#A1A1A1] -mb-1 w-[80%]">
               Choose your Favorite Coffee
             </h2>
-            <p className="text-[16px] text-[#3C5049] dark:text-[#A1A1A1] tracking-[4px]">
+            <p className="text-[16px] text-[#3C5049] dark:text-[#A1A1A1] sm:tracking-[4px]">
               Our current beans line up for filter coffee. We will add new
               selection for the guest beans. Keep you guys updated on this page.
             </p>

@@ -7,7 +7,7 @@ const SignatureMenu = () => {
       <div className="mx-auto md:max-w-[75%] relative">
         <div className="grid md:grid-cols-2 grid-cols-1 max-sm:space-y-[40px] z-10 relative">
           <div className="space-y-[30px] ">
-            <p className="text-[16px] text-[#3C5049] dark:text-[#A1A1A1] tracking-[4px]">
+            <p className="text-[16px] text-[#3C5049] dark:text-[#A1A1A1] sm:tracking-[4px]">
               A progression of rare and beautiful ingrediens where texture,
               flavour, and harmony is paramount.
             </p>
